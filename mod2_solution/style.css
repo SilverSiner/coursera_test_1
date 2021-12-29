@@ -35,7 +35,7 @@ div {
     margin-bottom: auto;
 }
 
-.sub1 {
+.first {
     float: right;
     width: 100px;
     padding: 5px;
@@ -48,7 +48,7 @@ div {
 
 }
 
-.sub2 {
+.second {
     float: right;
     color: white;
     width: 100px;
@@ -62,7 +62,7 @@ div {
 
 }
 
-.sub3 {
+.third {
     color: black;
     float: right;
     width: 100px;
@@ -76,7 +76,7 @@ div {
 
 }
 
-.content {
+.text {
     padding: 5px;
     border: none;
     background-color: gray;
